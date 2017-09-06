@@ -24,3 +24,15 @@ Git is a version control system for tracking changes in computer files and coord
    $ git config --global user.name
    > <username>
    ```
+
+## NativeScript
+> September 9, 2017
+
+> 9:00am - 11:00am
+
+NativeScript is a framework for building native iOS and Android apps using JavaScript and CSS. NativeScript renders UIs with the native platform’s rendering engine, no WebViews, resulting in native-like performance and UX.
+
+[Install NativeScript CLI](http://docs.nativescript.org/start/quick-setup)
+
+
+
